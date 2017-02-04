@@ -1,6 +1,7 @@
 body {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 14pt;
+  color: #333;
 }
 
 h1 {
@@ -42,20 +43,46 @@ h2 {
   padding: 0.5em;
 }
 
-.about-section {
+.about-section, .experience-section {
   padding: 1em;
   max-width: 800px;
   margin: 0 auto;
 }
 
-.experience-section {
-  padding: 1em;
-  max-width: 800px;
-  margin: 0 auto;
+.meter-description {
+  display: inline-block;
+  width: 50%;
+}
+
+.meter {
+  display: inline-block;
+  background-color: #4a4a4a;
+  height: 0.75em;
+  width: 7em;
+  border-radius: 25px;
+  padding: 0.1em;
+}
+
+.meter-inner {
+  display: block;
+  background-color: #83acf2;
+  height: 100%;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.columns-2 > .column {
+  display: inline-block;
+  width: 50%;
 }
 
 @media only screen and (max-device-width: 600px) {
   .title-section {
     padding: 2em 1em;
+  }
+
+  .columns-2 > .column {
+    display: block;
+    width: 100%;
   }
 }
