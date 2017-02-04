@@ -140,6 +140,10 @@ h2 {
   padding: 2em 3em;
   color: #ddd;
   text-align: center;
+  background-image: url('images/background.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 
 .contact-section a {
