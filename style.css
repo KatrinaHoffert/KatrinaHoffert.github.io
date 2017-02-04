@@ -88,6 +88,49 @@ h2 {
   vertical-align: top;
 }
 
+.projects-section {
+  background-color: purple;
+  padding: 1em;
+  color: #ddd;
+  text-align: center;
+  margin-top: 2em;
+}
+
+.projects-section h1 {
+  color: #ddd;
+}
+
+.project-panel {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.project {
+  display: inline-block;
+  max-width: 500px;
+  clear: both;
+  margin: 0 1em;
+  vertical-align: top;
+}
+
+.project h2 {
+  color: #ddd;
+}
+
+.project img {
+  float: left;
+  margin-right: 1em;
+}
+
+.project a {
+  color: orange;
+}
+
+.project a:visited {
+  color: #ae750c;
+}
+
 @media only screen and (max-device-width: 600px) {
   .title-section {
     padding: 2em 1em;
@@ -96,5 +139,9 @@ h2 {
   .columns-2 > .column {
     display: block;
     width: 100%;
+  }
+
+  .project {
+    margin: 0;
   }
 }
