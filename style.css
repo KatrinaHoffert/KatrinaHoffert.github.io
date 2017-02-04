@@ -1,0 +1,40 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 14pt;
+}
+
+.title-section {
+  background-color: purple;
+  padding: 5em 3em;
+  color: #ddd;
+  text-align: center;
+}
+
+.title-text {
+  font-size: 200%;
+}
+
+.blinking-carat {
+  animation: blink 1s cubic-bezier(0, 1, 0, 1) infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+.title-experiences {
+  margin-top: 1em;
+  font-size: 150%;
+}
+
+.experiences-cell {
+  display: inline-block;
+  margin: 0 2em;
+  padding: 0.5em;
+}
+
+@media only screen and (max-device-width: 600px) {
+  .title-section {
+    padding: 2em 1em;
+  }
+}

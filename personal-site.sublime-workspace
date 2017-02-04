@@ -1,0 +1,610 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"text-fo",
+				"text-transform"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"radi",
+				"radius_range"
+			],
+			[
+				"ou",
+				"output_image"
+			],
+			[
+				"out",
+				"output_loc"
+			],
+			[
+				"fi",
+				"file_id"
+			],
+			[
+				"gr",
+				"ground_truth_loc"
+			],
+			[
+				"gro",
+				"ground_truth_image"
+			],
+			[
+				"stro",
+				"stroke_or_point"
+			],
+			[
+				"par",
+				"participant_id"
+			],
+			[
+				"le",
+				"left_over"
+			],
+			[
+				"pos",
+				"postbackResults"
+			],
+			[
+				"em",
+				"emailBody"
+			],
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"val",
+				"valid"
+			],
+			[
+				"lis",
+				"list-style-image"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"re",
+				"reversedNodePath2"
+			],
+			[
+				"nod",
+				"nodePath1"
+			],
+			[
+				"to_",
+				"to_do_list"
+			],
+			[
+				"curr",
+				"currentLineContainsListObject"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 374,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 11,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "spaces",
+		"selected_items":
+		[
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"table",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"compare",
+				"Compare with..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"javaa",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimelinter ",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"instala",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Documents/Projects/personal-site/reset.css",
+		"/F/Dropbox/School/Current/CMPT 350/Labs/Lab2/index.html",
+		"/F/Dropbox/School/Current/CMPT 350/Labs/Lab2/style.css",
+		"/F/Dropbox/School/Current/CMPT 400/Code/analysis.py",
+		"/F/Dropbox/School/Current/CMPT 400/Code/dilate.py",
+		"/F/Documents/rau/copy_rau.py",
+		"/F/Documents/rau/output.txt",
+		"/F/Dropbox/Other/LAGH names.txt",
+		"/F/Dropbox/School/Current/PHIL 121/Readings/06 Notes.txt",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a3/segleaf.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a3/regiongrow.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a3/imgCoordFromScalar.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a3/houghfindcircles.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a4/retainEccentricities.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a4/retainAreas.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a4/removePeripheralRegions.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a4/HoCS.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a4/fillSmallHoles.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a4/demonstrate.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a5/lbpFeatures.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a5/HoCS.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a5/glcmFeatures.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a5/classifytexture.m",
+		"/F/Dropbox/School/Old/CMPT 487/Assignments/a2/HE-Observations.txt",
+		"/C/Users/katrina/AppData/Local/Temp/7zOFD65.tmp/Personal info.txt",
+		"/C/Program Files/CPUID/CPU-Z/cpuz_readme.txt",
+		"/F/Dropbox/Code/Program ideas.txt",
+		"/F/Dropbox/Code/daily-programmer/162-easy/Decompress.java",
+		"/F/Dropbox/Code/js/terminal.html",
+		"/F/Dropbox/Code/c++/linkedLists/linkedLists.cc",
+		"/F/Dropbox/Code/Notable posted stuff.txt",
+		"/C/Users/katrina/AppData/Local/Temp/7zOAA9C.tmp/Personal info.txt",
+		"/F/Documents/Rainmeter/Skins/WXDataWeather/CheckAlerts.lua",
+		"/F/Documents/Rainmeter/Skins/WXDataWeather/@Resources/WXDataWeatherRegExp.inc",
+		"/F/Documents/Rainmeter/Skins/WXDataWeather/WXDataWeather.ini",
+		"/F/Documents/Rainmeter/Skins/WXDataWeather/@Resources/WXDataWeatherVars.inc",
+		"/F/Documents/Rainmeter/Skins/WXDataWeather/@Resources/GeneralVariables.inc",
+		"/F/Desktop/pair_names.py",
+		"/F/Desktop/names.txt",
+		"/F/Desktop/pairs.txt",
+		"/C/wamp64/www/cwp/style.css",
+		"/F/Dropbox/Website/Verification/index.html",
+		"/F/Dropbox/Website/Verification/style.css",
+		"/F/Dropbox/Website/Verification/mail.php",
+		"/C/wamp64/www/index.php",
+		"/F/Documents/Unity projects/cmpt306a2/.gitignore",
+		"/F/Dropbox/Website/Verification/form-verification.html",
+		"/C/Users/katrina/AppData/Local/Temp/7zO1DFE.tmp/Personal info.txt",
+		"/F/Desktop/old/index-main.html",
+		"/C/Users/katrina/AppData/Local/Temp/7zOD76F.tmp/SceneControl.cs",
+		"/F/Dropbox/School/Meta/Schedules/Term 1.csmo",
+		"/F/Dropbox/Other/Measurements.txt",
+		"/C/Users/Mike/AppData/Local/Temp/7zO2183.tmp/Personal info.txt",
+		"/C/Users/Mike/AppData/Local/Temp/7zO202.tmp/DFT.java",
+		"/C/Users/Mike/AppData/Local/Temp/7zOE69B.tmp/AudioAnalyser.java",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/F/Documents/Projects/caladbolg-engine/demo/main.py",
+		"/C/Users/Mike/Dropbox/Code/Notable posted stuff.txt",
+		"/F/Documents/Projects/caladbolg-engine/docs/index.rst",
+		"/F/Documents/Projects/caladbolg-engine/docs/conf.py",
+		"/F/Documents/Projects/caladbolg-engine/rebuild_documentation.sh",
+		"/F/Documents/Projects/caladbolg-engine/docs/modules.rst",
+		"/F/Documents/Projects/caladbolg-engine/docs/Makefile",
+		"/F/Documents/Projects/caladbolg-engine/create_documentation.sh",
+		"/F/Documents/Projects/caladbolg-engine/.gitignore",
+		"/F/Documents/Projects/caladbolg-engine/docs/caladbolg.graphics.rst",
+		"/F/Documents/Projects/caladbolg-engine/docs/_build/html/.buildinfo",
+		"/F/Documents/Projects/EatSafe/project/target/node-modules/webjars/npm/node_modules/node-gyp/gyp/tools/pretty_sln.py",
+		"/C/cygwin64/lib/python2.7/site-packages/bzrlib/store/versioned/__init__.py",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/F/Documents/Projects/MegaGlest/megaglest-source/CMakeLists.txt",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/E/Backup/cygwin64/lib/python3.2/distutils/command/__pycache__/__init__.cpython-32.pyo",
+		"/F/Documents/Projects/easy-append/src/main/com/mikehoffert/easyappend/control/Controller.java",
+		"/C/Users/Mike/Dropbox/Code/Program ideas.txt",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/F/Desktop/ez_setup.py",
+		"/C/cygwin64/usr/share/doc/cppunit/html/_asserter_8h_source.html",
+		"/C/Program Files/R/R-3.0.1/library/gtools/html/00Index.html",
+		"/F/Music/Sound effects/@Links/SFX Websites_files/shCore.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"stroke",
+			"dilation_radius",
+			"it.multi_index",
+			"dilation_radius",
+			"multi_index",
+			"(^.+)\\t.+\\t.+",
+			"(^.+)\\t?.+",
+			"(^.+)\\t.+",
+			"(.+)\\t.+",
+			".+\\t(.+@.+)\\t.+",
+			"\\t(.+@.+)\\t",
+			"\\t+",
+			"marx",
+			"addr",
+			"karl",
+			"SunsetChild",
+			"rise",
+			"formError",
+			"submitted",
+			"walmar",
+			"meta",
+			"Walmart",
+			"knight",
+			"lua",
+			"inse",
+			"hip",
+			"Sunrise",
+			"date",
+			"pressu",
+			"press",
+			"wal",
+			"pd",
+			"insea",
+			"\\t",
+			"Blank space",
+			"shoul",
+			"Wa",
+			"(\\d{3})(\\d{3})(\\d{4})",
+			"JQueryStatic",
+			"ajax",
+			"\t",
+			"\\t",
+			"root",
+			"binary_insert",
+			"insert",
+			"r_child",
+			"l_child",
+			"sResourceDataDirsFinal",
+			"benablefil",
+			"ben",
+			"width",
+			", ",
+			"style",
+			"css",
+			".\n",
+			"theme op",
+			"image",
+			"image\\",
+			"image",
+			"side",
+			"color",
+			"edit",
+			"ctrl+alt+",
+			"whites",
+			"python",
+			"tidy",
+			"choc",
+			"maven",
+			"cmake",
+			"cabal",
+			"java"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'",
+			"radius",
+			"point",
+			"radius",
+			"point",
+			"\\1",
+			"\\t",
+			"formResultMessage",
+			"|",
+			"",
+			"(\\1) \\2-\\3",
+			"    ",
+			"  ",
+			"    ",
+			"node",
+			"insert",
+			"right",
+			"left",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal-site.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
