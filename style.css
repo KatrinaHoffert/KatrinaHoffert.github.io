@@ -54,6 +54,17 @@ h2 {
   width: 50%;
 }
 
+.meter-description[title] {
+  cursor: help;
+}
+
+.qtip {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: normal;
+  font-size: 12pt;
+  line-height: 110%;
+}
+
 .meter {
   display: inline-block;
   background-color: #4a4a4a;
@@ -74,6 +85,7 @@ h2 {
 .columns-2 > .column {
   display: inline-block;
   width: 50%;
+  vertical-align: top;
 }
 
 @media only screen and (max-device-width: 600px) {
