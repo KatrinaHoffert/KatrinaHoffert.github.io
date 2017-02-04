@@ -3,6 +3,15 @@ body {
   font-size: 14pt;
 }
 
+h1 {
+  color: #555;
+  text-align: center;
+}
+
+h2 {
+  color: #555;
+}
+
 .title-section {
   background-color: purple;
   padding: 5em 3em;
@@ -31,6 +40,18 @@ body {
   display: inline-block;
   margin: 0 2em;
   padding: 0.5em;
+}
+
+.about-section {
+  padding: 1em;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.experience-section {
+  padding: 1em;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 @media only screen and (max-device-width: 600px) {
