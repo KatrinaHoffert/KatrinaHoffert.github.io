@@ -1,6 +1,6 @@
 /*
 	Base converter: Convert between bases and floating point representations
-	Copyright (C) 2013 Mike Hoffert
+	Copyright (C) 2013 Kat Hoffert
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
