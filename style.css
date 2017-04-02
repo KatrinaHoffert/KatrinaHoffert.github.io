@@ -169,13 +169,25 @@ h2 {
     margin: 0;
   }
 
+  .project h2 {
+    text-align: center;
+  }
+
   .project img {
     float: none;
     display: block;
-    margin-bottom: 1em;
+    margin: 0 auto 1em;
   }
 
   .site-icons i {
     margin: 0 0.25em;
+  }
+}
+
+@media only screen and (max-device-width: 1117px) {
+  .project {
+    max-width: 600px;
+    margin: 0 auto;
+    display: table;
   }
 }
